@@ -10,4 +10,14 @@
         android:name="com.example.firebase_danielcoto_uf2.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/logInFragment"
+        android:name="com.example.firebase_danielcoto_uf2.LogInFragment"
+        android:label="fragment_log_in"
+        tools:layout="@layout/fragment_log_in" />
+    <fragment
+        android:id="@+id/resgisterFragment"
+        android:name="com.example.firebase_danielcoto_uf2.ResgisterFragment"
+        android:label="fragment_resgister"
+        tools:layout="@layout/fragment_resgister" />
 </navigation>
